@@ -8,7 +8,7 @@ function App() {
         <h1>GitHub practice</h1>
       </header>
       <main>
-        <h2>Hello World :)</h2>
+        <h2>Hello again:)</h2>
       </main>
     </div>
   );
