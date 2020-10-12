@@ -1,5 +1,5 @@
-import React from 'react';
-import './App.css';
+import React from "react";
+import "./App.css";
 
 function App() {
   return (
@@ -9,6 +9,7 @@ function App() {
       </header>
       <main>
         <h2>Add your contribution here:</h2>
+        <h2>I'm trying to refresh my Github skill</h2>
       </main>
     </div>
   );
